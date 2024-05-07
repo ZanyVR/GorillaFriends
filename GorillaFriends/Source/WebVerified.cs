@@ -5,7 +5,7 @@ namespace GorillaFriends
 {
     class WebVerified
     {
-        public const string m_szURL = "https://raw.githubusercontent.com/RusJJ/GorillaFriends/file_sources/gorillas.verified";
+        public const string m_szURL = "https://github.com/ZanyVR/repo4828333/blob/main/gorilla.verified";
         async public static void LoadListOfVerified()
         {
             HttpClient client = new HttpClient();
